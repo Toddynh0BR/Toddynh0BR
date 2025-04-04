@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1000&color=FFFFFF&width=435&height=30&lines=Hi!+I'm+Matheus+Augusto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1000&color=FFFFFF&width=435&height=40&lines=Hi!+I'm+Matheus+Augusto)](https://git.io/typing-svg)
 
 `Full-Stack Engineer`
 
