@@ -1,4 +1,6 @@
-## Hi! I'm Matheus Augusto, a Full-Stack Engineer!
+## Hi! I'm Matheus Augusto
+
+`Full-Stack Engineer`
 
 <img height='180em' src="https://github-readme-stats.vercel.app/api?username=Toddynh0BR&show_icons=true&theme=dark&include_all_commits=true"> <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynh0BR&layout=compact&langs_count=8&theme=dark">
 
