@@ -4,23 +4,54 @@
 
 I am a junior full stack developer, dedicated to continuous learning and self-improvement. With a solid foundation in web development, my focus is on constantly expanding my knowledge and skills in both Front-End and Back-End areas. I am always looking for new opportunities to learn and apply emerging technologies, and I strive to take on complex challenges that allow me to grow professionally.
 
- <div> 
-  <a href="https://www.instagram.com/matheus_augusto_007" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-augusto-a950672a1/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:galaxyplay41@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://portfolio-toddy.netlify.app/" target="blank"><img src="https://img.shields.io/badge/MyPortfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+
+## 🛠️ Tech Stack
+
+### • Languages
+<div style="display: inline_block">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
+### • Backend & Architecture
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=Toddynh0BR&show_icons=true&theme=dark&include_all_commits=true"> <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynh0BR&layout=compact&langs_count=8&theme=dark">
 
+### • Frontend 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-<div style="display: inline_block; gap: 50"><br>
-   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,nodejs,react,reactnative,expo,sqlite"
-    />
-<!--     python  mongodb  java  https://github.com/LelouchFR/skill-icons -->
+### • Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### • Automation & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+---
+
+## 📫 Vamos Conversar?
+
+ 
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-augusto007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Toddynh0BR" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:galaxyplay41@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://wa.me/5581999704376" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://toddynh0br.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  ##
