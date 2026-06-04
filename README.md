@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1000&color=FFFFFF&width=435&height=40&lines=Hi!+I'm+Matheus+Augusto)](https://git.io/typing-svg)
 
-`Full-Stack Engineer`
+`Full-Stack & Mobile Engineer`
 
 I am a junior full stack developer, dedicated to continuous learning and self-improvement. With a solid foundation in web development, my focus is on constantly expanding my knowledge and skills in both Front-End and Back-End areas. I am always looking for new opportunities to learn and apply emerging technologies, and I strive to take on complex challenges that allow me to grow professionally.
 
