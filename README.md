@@ -13,9 +13,7 @@ I am a junior full stack developer, dedicated to continuous learning and self-im
   <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          
-              
+  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />          
 </div>
 
 ### • Backend & Architecture
@@ -41,9 +39,23 @@ I am a junior full stack developer, dedicated to continuous learning and self-im
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ---
 
+<div style="display: inline_block">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Toddynh0BR&theme=dracula&show_icons=true&hide_border=false&count_private=true">  
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toddynh0BR&theme=dracula&hide_border=false"> 
+
+</div>
+
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
 ## 📫 Vamos Conversar?
 
- 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-augusto007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
