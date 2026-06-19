@@ -39,14 +39,6 @@ I am a junior full stack developer, dedicated to continuous learning and self-im
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ---
 
-<div style="display: inline_block">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Toddynh0BR&theme=dracula&show_icons=true&hide_border=false&count_private=true">  
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toddynh0BR&theme=dracula&hide_border=false"> 
-
-</div>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynh0BR&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 
