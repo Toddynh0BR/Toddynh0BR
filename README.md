@@ -47,7 +47,7 @@ I am a junior full stack developer, dedicated to continuous learning and self-im
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynh0BR&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 
 
