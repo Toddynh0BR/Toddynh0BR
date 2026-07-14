@@ -39,8 +39,18 @@ I am a junior full stack developer, dedicated to continuous learning and self-im
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toddynh0BR&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
+<p >
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Toddynh0BR&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Toddynh0BR&layout=donut&hide_title=true&langs_count=6&theme=transparent"
+    height="180"
+  />
+</p>
+
+
 
 
 ## 📫 Vamos Conversar?
